@@ -197,7 +197,7 @@ class Plotting:
 
 
         ax[7].xaxis.set_major_formatter(date_formatter)
-        ax[7].xaxis.set_major_locator(mdates.HourLocator([0,12]))
+        #ax[7].xaxis.set_major_locator(mdates.HourLocator([0,12]))
 
         #Time range logic
 
