@@ -17,6 +17,10 @@ This project focuses on developing and maintaining Python scripts that utilize P
 
 This project has significantly aided the research department in visualizing years of data, making it easier for them to analyze and derive meaningful insights. The optimized scripts and visualizations have streamlined the data analysis process, saving time and improving the accuracy of their research.
 
+## Output 
+
+![WEBSITE](image.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -42,6 +46,7 @@ This project has significantly aided the research department in visualizing year
    ```bash
    python -m streamlit run  app_stream.py
    ```
+
 
 
 ## Contributing
