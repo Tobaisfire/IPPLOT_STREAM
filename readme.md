@@ -21,6 +21,10 @@ This project has significantly aided the research department in visualizing year
 
 ![WEBSITE](image.png)
 
+## LIVE WEBSITE 
+
+[VISIT WEBSITE](https://ipplot-swe.streamlit.app/)
+
 ## Installation
 
 1. Clone the repository:
@@ -65,13 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Special thanks to the WIND mission team for providing the datasets.
+- Special thanks to the NASA WIND mission team for providing the datasets.
 - Thanks to the contributors and the open-source community for their valuable inputs.
 
-## Contact
-
-<!-- For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com). -->
-
----
-
-Developed and maintained by [Your Name](https://github.com/yourusername)
